@@ -300,11 +300,11 @@ sup > a::before,
   color: #ff4500;
 }
 html {
-  font-size: 16px;
+  font-size: 18px;
 }
 html,
 body {
-  font-family: var(--font-family-sans-serif);
+  font-family: 楷体;
 }
 html,
 body,
@@ -894,7 +894,7 @@ img[lazyload] {
 .markdown-body {
   font-size: 1rem;
   margin-bottom: 2rem;
-  font-family: var(--font-family-sans-serif);
+  font-family: 楷体;
   color: var(--post-text-color);
 }
 .markdown-body h1,

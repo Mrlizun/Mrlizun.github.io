@@ -11,6 +11,12 @@
     <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>这是我的第一篇博客，今天是我加入Blog的第一天。</p><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p>从一开始对HEXO+GITHUB一无所知，到后来各方查资料以及各种踩雷，终于算是简单的搭起了这个小窝。感觉不错，继续努力！</p><h2 id="目的"><a href="#目的" class="headerlink" title="目的"></a>目的</h2><p>我打算在这里记录一下我所学的一些知识，以及杂七杂八的心情碎片。</p><h2 id="关于未来"><a href="#关于未来" class="headerlink" title="关于未来"></a>关于未来</h2><p>还不知道未来会怎样，但始终向前总是没错的吧……</p>]]></content>
     
     
+    <categories>
+      
+      <category>博客搭建</category>
+      
+    </categories>
+    
     
     <tags>
       
